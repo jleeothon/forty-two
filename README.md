@@ -2,6 +2,8 @@
 
 The answer to life, the universe, and everything--now in Ruby
 
+If you ever wondered why 1 + 1 isn't 42, this is your chance to do something about it.
+
 Install by running:
 
 ```
