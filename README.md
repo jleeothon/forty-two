@@ -1,6 +1,6 @@
 # forty-two
 
-[![Gem Version](https://badge.fury.io/rb/forty-two.svg)](http://badge.fury.io/rb/forty-two)
+[![Gem Version](https://badge.fury.io/rb/forty-two.svg)](http://badge.fury.io/rb/forty-two) [![Build Status](https://travis-ci.org/jleeothon/forty-two.svg?branch=master)](https://travis-ci.org/jleeothon/forty-two)
 
 The answer to life, the universe, and everything--now in Ruby
 
