@@ -2,7 +2,7 @@ require 'minitest/autorun'
 
 load 'forty-two.rb'
 
-class TestFortyTwo < Minitest::Test
+class TestFortyTwo < MiniTest::Unit::TestCase
     
     def test_number_to_s
         assert_equal '42', 1.to_s
